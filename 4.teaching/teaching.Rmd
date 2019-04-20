@@ -2,7 +2,12 @@
 title: "Teaching"
 author: "Duy Ngo"
 date: "4/19/2019"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: cosmo
 ---
 
 ```{r setup, include=FALSE}
@@ -10,10 +15,25 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# 1. Class information
+1. Class information
+======================================================================================
 
-# 2. Grade
+Survival analysis
 
-# 3. Homework
 
-# 4. Exam
+
+2. Grade
+======================================================================================
+
+A - B - C - D
+
+
+3. Homework
+======================================================================================
+Will not be given
+
+
+4. Exam
+======================================================================================
+3 exams
+
