@@ -4,12 +4,12 @@ navbar:
   title: "Website title"
   left:
    - text: "About"
-     href: index.html
+     href: ./1.home/index.html
    - text: "Research"
-     href: research.html
+     href: ./2.research/research.html
    - text: "Publication"
-     href: pub.html
+     href: ./3.pub/pub.html
    - text: "Teaching"
      href: ./4.teaching/teaching.html
    - text: "CV"
-     href: cv.html
+     href: ./5.cv/cv.html
