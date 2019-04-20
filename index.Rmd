@@ -1,0 +1,15 @@
+---
+title: "Duy Ngo website"
+subtitle: "My personal website"
+author: "Duy Ngo"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: cosmo
+---
+
+# 1. About
+
+# 2. Research
