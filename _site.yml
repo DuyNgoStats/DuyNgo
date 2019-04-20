@@ -3,13 +3,13 @@ output_dir: "."
 navbar:
   title: "Website title"
   left:
-   - text: "Overview"
+   - text: "About"
      href: index.html
-   - text: "Weekly schedule"
+   - text: "Research"
      href: research.html
-   - text: "Assignments"
+   - text: "Publication"
      href: pub.html
-   - text: "Assignments"
+   - text: "Teaching"
      href: teaching.html
-   - text: "Assignments"
+   - text: "CV"
      href: cv.html
