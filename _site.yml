@@ -4,7 +4,7 @@ navbar:
   title: "Website title"
   left:
    - text: "About"
-     href: ./1.home/index.html
+     href: index.html
    - text: "Research"
      href: ./2.research/research.html
    - text: "Publication"
