@@ -6,10 +6,10 @@ navbar:
    - text: "About"
      href: index.html
    - text: "Research"
-     href: ./2research/research.html
+     href: research.html
    - text: "Publication"
-     href: ./3pub/pub.html
+     href: pub.html
    - text: "Teaching"
-     href: ./4teaching/teaching.html
+     href: teaching.html
    - text: "CV"
-     href: ./5cv/cv.html
+     href: cv.html
