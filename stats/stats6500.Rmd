@@ -7,7 +7,7 @@ output:
     toc: true
     toc_depth: 2
     toc_float: true
-    theme: flatly
+    theme: spacelab
 ---
 
 ```{r setup, include=FALSE}
