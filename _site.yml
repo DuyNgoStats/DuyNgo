@@ -6,10 +6,10 @@ navbar:
    - text: "Overview"
      href: index.html
    - text: "Weekly schedule"
-     href: ./Aresearch/research.html
+     href: research.html
    - text: "Assignments"
-     href: ./Bpub/pub.html
+     href: pub.html
    - text: "Assignments"
-     href: ./Cteaching/teaching.html
+     href: teaching.html
    - text: "Assignments"
-     href: ./Dcv/cv.html
+     href: cv.html
