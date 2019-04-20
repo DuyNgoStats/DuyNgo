@@ -11,9 +11,8 @@ navbar:
    - text: "Publication"
      href: pub.html
    - text: "Teaching"
+     href: teaching.html   
      menu:
-      - text: "About"
-        href: teaching.html   
       - text: "Courses"
       - text: "---------"
       - text: "STAT 6500"
