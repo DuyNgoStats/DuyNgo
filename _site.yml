@@ -10,6 +10,6 @@ navbar:
    - text: "Publication"
      href: pub.html
    - text: "Teaching"
-     href: teaching.html
+     href: ./4.teaching/teaching.html
    - text: "CV"
      href: cv.html
