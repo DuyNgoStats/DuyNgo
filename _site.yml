@@ -1,7 +1,7 @@
 name: "my-website-name"
 output_dir: "."
 navbar:
-  title: "Website title"
+  title: "Duy Ngo"
   left:
    - text: "About"
      href: index.html
@@ -11,5 +11,5 @@ navbar:
      href: pub.html
    - text: "Teaching"
      href: teaching.html
-   - text: "CV"
+   - text: "Activities"
      href: act.html

@@ -1,17 +1,19 @@
 ---
-title: "Dr. Duy Ngo"
-subtitle: "My personal website"
+title: "Home"
+#subtitle: "About me"
 # author: "Duy Ngo"
 output: 
   html_document:
     toc: true
     toc_depth: 2
     toc_float: true
-    theme: cosmo
+    theme: flatly
 ---
 
 Biography
 ====================================================================================
+
+I am an Assisstant Professor
 
 
 Academic Positions
@@ -22,9 +24,19 @@ Education and Training
 ====================================================================================
 
 
-Honors and Awards
+Current Highlights
 ====================================================================================
 
 
 Contact 
-====================================================================================
+=====================================================================================
+
+- Mail address:
+
+- Phone:
+
+- Web:
+
+- Email:
+
+
