@@ -2,14 +2,21 @@ name: "my-website-name"
 output_dir: "."
 navbar:
   title: "Duy Ngo"
-  left:
+  right:
    - text: "About"
+     icon: fa-home
      href: index.html
    - text: "Research"
      href: research.html
    - text: "Publication"
      href: pub.html
    - text: "Teaching"
-     href: teaching.html
+     menu:
+      - text: "About"
+        href: teaching.html   
+      - text: "Courses"
+      - text: "---------"
+      - text: "STAT 6500"
+        href: ./stats/stats6500.html     
    - text: "Activities"
      href: act.html
