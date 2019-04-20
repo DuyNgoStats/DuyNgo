@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Activities"
 author: "Duy Ngo"
 date: "4/19/2019"
 output: 
@@ -15,4 +15,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-here is my cv
+here 
