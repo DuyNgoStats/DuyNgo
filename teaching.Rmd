@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 1. Class information
 ======================================================================================
 
-Survival analysis
+Survival analysis is an analysis for survival endpoints in clinical trials.
 
 
 
