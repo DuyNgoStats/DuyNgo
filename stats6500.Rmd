@@ -1,7 +1,7 @@
 ---
 title: "STAT 6500: Statistical Theory I"
 author: "Duy Ngo"
-date: "4/19/2019"
+date: "Fall 2019"
 output: 
   html_document:
     toc: true
@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 1. Class information
 ======================================================================================
 
-Statistical Theory I
+Statistical Theory I. Survival data analysis provides statistical methods and inferences for survival data in clinical trials.
 
 
 

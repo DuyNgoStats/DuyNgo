@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: "my-website-name"
 output_dir: "."
 navbar:
@@ -20,4 +21,27 @@ navbar:
       #- text: "STAT 6500"
       #  href: stats6500.html */     
    - text: "Activities"
+=======
+name: "my-website-name"
+output_dir: "."
+navbar:
+  title: "Duy Ngo"
+  right:
+   - text: "Home"
+     icon: fa-home
+     href: index.html
+   - text: "Research"
+     href: research.html
+   - text: "Publication"
+     href: pub.html
+   - text: "Teaching"
+     menu:
+      - text: "About"
+        href: teaching.html 
+      - text: "Courses"
+      - text: "---------"
+      - text: "STAT 6500"
+        href: stats6500.html     
+   - text: "Activities"
+>>>>>>> 1983c2a8500c419e7308bb72453e120aa40618ee
      href: act.html

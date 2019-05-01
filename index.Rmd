@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Welcome"
 #subtitle: "About me"
 # author: "Duy Ngo"
 output: 
@@ -9,6 +9,9 @@ output:
     toc_float: true
     theme: flatly
 ---
+
+***
+<br>
 
 Biography
 ====================================================================================
@@ -23,18 +26,22 @@ I am a well-known R enthusiast, including serving on the board and being an acti
 
 My full CV is available [here](cv/DuyNgo_CV.pdf).
 
+<br>
 
 Academic Positions
 ====================================================================================
 
+<br>
 
 Education and Training
 ====================================================================================
 
+<br>
 
 Current Highlights
 ====================================================================================
 
+<br>
 
 Contact 
 =====================================================================================
