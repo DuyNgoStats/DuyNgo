@@ -18,13 +18,9 @@ output:
 Biography
 ====================================================================================
 
-<img src="pictures/profilePic1.png" style="width:30%; border:2px solid; margin-right: 20px" align="left">
+<img src="pictures/profilePic1.png" style="width:25%; border:2px solid; margin-right: 20px" align="left">
 
-
-I graduated from the [University of California, Irvine](https://www.stat.uci.edu/) with a Ph.D. in statistics in 2018. 
-Then I joined Merck Research Laboratory as postdoctoral fellow. I am currently an Assistant Professor in the Department of Statistics at Western Michigan University. My research interests include Bayesian analysis, clustering, time series, spectral analysis, and functional data analysis. 
-I am also working on statistical modeling and machine learning for subgroup identification/analysis for benefit--risk assessment.
-
+I am currently an Assistant Professor in the Department of Statistics at Western Michigan University. My research interests include Bayesian analysis, clustering, time series, spectral analysis, and functional data analysis. I am also working on statistical modeling and machine learning for subgroup identification/analysis for benefit--risk assessment. Before coming to Western Michigan University, I received my Ph.D. (2018) in statistics from the [University of California, Irvine](https://www.stat.uci.edu/). Then I joined Merck Research Laboratory in Rahway, New Jersey as a postdoctoral fellow. 
 
 <br>
 
@@ -37,7 +33,7 @@ Academic Positions
 <li>2018 -- 2019</li>
 </ul>
 </div>
-<div style="float: right; width: 80%;">
+<div style="float: right; width: 70%;">
 <ul>
 Assistant Professor, Department of Statistics, Western Michigan University.
 Postdoctoral Fellow, Merck Research Laboratory, Rahway, New Jersey.
@@ -69,11 +65,17 @@ Contact
 =====================================================================================
 
 - Mail address:
+
   5517 Everett Tower
+  
   Department of Statistics
+  
   Western Michigan University
+  
   1903 W Michigan Ave
+  
   Kalamazoo MI 49008-5278 USA
+  
 
 - Phone: (269) 487-4565
 
