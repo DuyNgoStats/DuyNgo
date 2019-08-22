@@ -18,7 +18,7 @@ output:
 Biography
 ====================================================================================
 
-<img src="pictures/profilePic1.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="left">
+<img src="pictures/profilePic1.png" style="width:30%; border:2px solid; margin-right: 20px" align="left">
 
 
 I graduated from the [University of California, Irvine](https://www.stat.uci.edu/) with a Ph.D. in statistics in 2018. 
@@ -33,15 +33,14 @@ Academic Positions
 
 <div style="float: left; width: 30%;">
 <ul>
-<li>- 2019 -- present</li>
-<li>- 2018 -- 2019</li>
-
+<li>2019 -- present</li>
+<li>2018 -- 2019</li>
 </ul>
 </div>
 <div style="float: right; width: 80%;">
 <ul>
-<li>Assistant Professor, Department of Statistics, Western Michigan University.</li>
-<li>Postdoctoral Fellow, Merck Research Laboratory, Rahway, New Jersey.</li>
+Assistant Professor, Department of Statistics, Western Michigan University.
+Postdoctoral Fellow, Merck Research Laboratory, Rahway, New Jersey.
 </ul>
 </div>
 
