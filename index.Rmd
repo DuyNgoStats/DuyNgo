@@ -15,7 +15,7 @@ output:
 
 <!-- rmarkdown::render_site() -->
 
-<img src="pictures/profilePic1.png" style="width:20%; border:2px solid; margin-right: 20px" align="left">
+<img src="pictures/profilePic1.png" style="width:20%; border:2px solid; margin-right: 20px" align="right">
 
 Biography
 ====================================================================================
@@ -23,17 +23,20 @@ Biography
 I am currently an Assistant Professor in the Department of Statistics at Western Michigan University. My research interests include Bayesian analysis, clustering, time series, spectral analysis, and functional data analysis. I am also working on statistical modeling and machine learning for subgroup identification/analysis for benefit--risk assessment. Before coming to Western Michigan University, I received my Ph.D. (2018) in statistics from the [University of California, Irvine](https://www.stat.uci.edu/). Then I joined Merck Research Laboratory in Rahway, New Jersey as a postdoctoral fellow. 
 
 <br>
+<br>
+<br>
+<br>
 
 Academic Positions
 ====================================================================================
 
-<div style="float: left; width: 30%;">
+<div style="float: left; width: 15%;">
 <ul>
 <li>2019 -- present</li>
 <li>2018 -- 2019</li>
 </ul>
 </div>
-<div style="float: right; width: 70%;">
+<div style="float: right; width: 85%;">
 <ul>
 Assistant Professor, Department of Statistics, Western Michigan University.
 Postdoctoral Fellow, Merck Research Laboratory, Rahway, New Jersey.
@@ -66,14 +69,9 @@ Contact
 
 - Mail address:
 
-  5517 Everett Tower
-  
-  Department of Statistics
-  
+  5517 Everett Tower \n Department of Statistics
   Western Michigan University
-  
   1903 W Michigan Ave
-  
   Kalamazoo MI 49008-5278 USA
   
 
