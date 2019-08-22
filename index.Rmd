@@ -38,8 +38,7 @@ Academic Positions
 </div>
 <div style="float: right; width: 70%;">
 <ul>
-Assistant Professor, Department of Statistics, Western Michigan University.
-
+Assistant Professor, Department of Statistics, Western Michigan University. <br>
 Postdoctoral Fellow, Merck Research Laboratory, Rahway, New Jersey.
 </ul>
 </div>
