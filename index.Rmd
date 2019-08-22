@@ -32,7 +32,7 @@ Academic Positions
 
 <div style="float: left; width: 25%;">
 <ul>
-<li>2019 -- present</li>
+<li>2019 -- present</li> <br>
 <li>2018 -- 2019</li>
 </ul>
 </div>
