@@ -30,7 +30,7 @@ I am currently an Assistant Professor in the Department of Statistics at Western
 Academic Positions
 ====================================================================================
 
-<div style="float: left; width: 20%;">
+<div style="float: left; width: 25%;">
 <ul>
 <li>2019 -- present</li>
 <li>2018 -- 2019</li>
