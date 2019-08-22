@@ -8,8 +8,8 @@ navbar:
      href: index.html
    - text: "Research"
      href: research.html
-   - text: "Publication"
-     href: pub.html
+   #- text: "Publication"
+   #  href: pub.html
    - text: "Teaching"
      href: teaching.html 
       #menu:

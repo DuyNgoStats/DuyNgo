@@ -30,7 +30,7 @@ I am currently an Assistant Professor in the Department of Statistics at Western
 Academic Positions
 ====================================================================================
 
-<div style="float: left; width: 30%;">
+<div style="float: left; width: 25%;">
 <ul>
 <li>2019 -- present</li>
 <li>2018 -- 2019</li>
@@ -68,17 +68,17 @@ Current Highlights
 Contact 
 =====================================================================================
 
-- Mail address:
-
-  5517 Everett Tower\newline
-  Department of Statistics\newline
-  Western Michigan University
-  1903 W Michigan Ave
-  Kalamazoo MI 49008-5278 USA
+- Mail address: 
+<address>
+5517 Everett Tower <br> 
+Department of Statistics <br> 
+Western Michigan University <br> 
+1903 W Michigan Ave <br> 
+Kalamazoo, MI 49008.
+</address>
   
-
 - Phone: (269) 487-4565
 
-- Email: duyDOTngo at wmich DOT edu
+- Email: duy.ngo at wmich DOT edu
 
 
