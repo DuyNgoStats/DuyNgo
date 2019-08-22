@@ -30,13 +30,13 @@ I am currently an Assistant Professor in the Department of Statistics at Western
 Academic Positions
 ====================================================================================
 
-<div style="float: left; width: 25%;">
+<div style="float: left; width: 20%;">
 <ul>
 <li>2019 -- present</li>
 <li>2018 -- 2019</li>
 </ul>
 </div>
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 80%;">
 <ul>
 Assistant Professor, Department of Statistics, Western Michigan University.
 
