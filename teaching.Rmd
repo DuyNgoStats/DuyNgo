@@ -10,30 +10,18 @@ output:
     theme: flatly
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+***
+<br>
+
+Western Michigan University
+======================================================================
+
+- STAT 6500, Statistical Theory I, Fall 2019.
 
 
-1. Class information
-======================================================================================
+University of Califorina, Irvine
+=======================================================================
 
-Survival analysis
+- STATS 7, Basic Statistics, Summer 2015 & Summer 2017.
 
-
-
-2. Grade
-======================================================================================
-
-A - B - C - D
-
-
-3. Homework
-======================================================================================
-Will not be given
-
-
-4. Exam
-======================================================================================
-3 exams
-
+- STATS 67, Introduction to Probability and Statistics for Computer Science, Summer 2015.
