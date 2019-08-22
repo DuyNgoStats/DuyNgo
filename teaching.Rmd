@@ -1,7 +1,5 @@
 ---
 title: "Teaching"
-author: "Duy Ngo"
-date: "4/19/2019"
 output: 
   html_document:
     toc: true
@@ -18,6 +16,10 @@ Western Michigan University
 
 - STAT 6500, Statistical Theory I, Fall 2019.
 
+
+<br>
+***
+<br>
 
 University of Califorina, Irvine
 =======================================================================

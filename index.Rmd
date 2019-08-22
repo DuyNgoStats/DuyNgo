@@ -36,7 +36,7 @@ Academic Positions
 <li>2018 -- 2019</li>
 </ul>
 </div>
-<div style="float: right; width: 70%;">
+<div style="float: right; width: 50%;">
 <ul>
 Assistant Professor, Department of Statistics, Western Michigan University.
 

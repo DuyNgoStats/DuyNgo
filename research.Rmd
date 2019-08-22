@@ -1,7 +1,5 @@
 ---
 title: "Research"
-author: "Duy Ngo"
-date: "4/19/2019"
 output: 
   html_document:
     toc: true
