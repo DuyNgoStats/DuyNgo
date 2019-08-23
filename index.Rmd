@@ -36,18 +36,14 @@ Academic Positions
 <li>2018 -- 2019</li>
 </ul>
 </div>
-<div style="float: right; width: 75%;">
+<div style="float: right; width: 50%;">
 <ul>
-
 <td>Assistant Professor, Department of Statistics, Western Michigan University.</td> <br>
 <td>Postdoctoral Fellow, Merck Research Laboratory, Rahway, New Jersey.</td> <br>
 </ul>
 </div>
 
-<!-- <br> -->
 
-<!-- Current Highlights -->
-<!-- ==================================================================================== -->
 
 <br>
 Education 
