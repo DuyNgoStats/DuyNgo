@@ -12,6 +12,11 @@ output:
 
 <br>
 
+Working papers
+==================================================================
+
+
+
 Publication
 ==================================================================
 
@@ -20,6 +25,7 @@ Publication
 1. Ngo, D., Chau, J., Lopour, B., Sun, Y., Smith, R., Shrey, D. & Ombao, H. (**2018**). A geometric approach to brain network connectivity. _Revised_.
 
 1. Ngo, D., Ombao, H., Sun, Y., Genton, M. G., Wu, J., Srinivasan, R., & Cramer, S. (**2015**). An exploratory data analysis of electroencephalograms using the functional boxplots approach. _Frontiers in neuroscience_, 9, 282.
+
 
 
 
