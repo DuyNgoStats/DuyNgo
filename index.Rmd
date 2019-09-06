@@ -20,7 +20,7 @@ output:
 Biography
 ====================================================================================
 
-I am currently an Assistant Professor in the Department of Statistics at Western Michigan University. My research interests include Bayesian analysis, clustering, time series, spectral analysis, and functional data analysis. I am also working on statistical modeling and machine learning for subgroup identification/analysis for benefit--risk assessment. Before coming to Western Michigan University, I received my Ph.D. (2018) in statistics from the [University of California, Irvine](https://www.stat.uci.edu/). Then I joined Merck Research Laboratory in Rahway, New Jersey as a postdoctoral fellow. 
+I am currently an Assistant Professor in the Department of Statistics at Western Michigan University. Before coming to Western Michigan University, I received my Ph.D. (2018) in statistics from the [University of California, Irvine](https://www.stat.uci.edu/), and I started as a postdoctoral fellow at Merck Research Laboratory in Rahway, New Jersey.  My research interests include Bayesian analysis, clustering, time series, spectral analysis, and functional data analysis. I am also working on statistical modeling and machine learning for subgroup identification/analysis for benefit--risk assessment.
 
 <br>
 <br>
@@ -69,7 +69,7 @@ Western Michigan University <br>
 Kalamazoo, MI 49008.
 </address>
   
-- Phone: (269) 487-4565
+- Phone: (269) 387-4565
 
 - Email: duy.ngo at wmich DOT edu
 
