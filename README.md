@@ -1,2 +1,2 @@
-# myPersonalWebsite
-Here is my personal website
+# Duy Ngo Homepage
+Here is my personal website.
