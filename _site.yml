@@ -1,4 +1,4 @@
-name: "my-website-name"
+name: "Duy Ngo Homepage"
 output_dir: "."
 navbar:
   title: "Duy Ngo"
@@ -19,5 +19,5 @@ navbar:
       #- text: "---------"
       #- text: "STAT 6500"
       #  href: stats6500.html    
-   - text: "Activities"
+   - text: "DS Club"
      href: act.html
