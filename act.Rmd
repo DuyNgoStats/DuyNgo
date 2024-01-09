@@ -1,5 +1,5 @@
 ---
-title: "Activities"
+title: "Data Science Club"
 output: 
   html_document:
     toc: true
