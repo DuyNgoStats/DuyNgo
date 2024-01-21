@@ -1,5 +1,5 @@
 ---
-title: "Data Science Club"
+title: "Data Science Club <br/> Bayesian Statistics Traning"
 output: 
   html_document:
     toc: true
