@@ -1,5 +1,5 @@
 ---
-title: "Data Science Club <br/> Bayesian Statistics Traning (BST)"
+title: "Data Science Club <br/> Bayesian Statistics Training"
 output: 
   html_document:
     toc: true
@@ -11,11 +11,43 @@ output:
 ***
 <br>
 
-Software
+Home
 =========================================================================
+The WMU Data Science club is a student organization which gathers students interested in data science and statistics. Besides students from Data Science program, this club has a variety of other majors, such as mathematics, business, social science, computer science and engineering. 
+
+The club aims to support students in learning emerging skillset in the field of data science through workshops and boot camps. The club also connects students with resources to advance their skills in data science and statistics. 
+
+<br>
+
+Bayesian Statistics Training (BST)
+=========================================================================
+The BST provides workshops and hands-on data analytics for those who are interested in Bayesian approach to statistical inference. The workshop introduces the fundamental of Bayesian statistics and modeling in the context of epigenomics and public health, such as choice of prior distribution and posterior computation. The examples and projects are done using R programming. 
 
 
 <br>
 
-Research group
+Software
 =========================================================================
+Coming soon
+
+<br>
+
+Activities
+=========================================================================
+- Workshop 2023
+![](pictures/DS Club/OpenAI 2023/ws1.jpeg){width=50%}
+![](pictures/DS Club/OpenAI 2023/ws3.jpeg){width=50%}
+
+![](pictures/DS Club/2023 Fall/IMG_1877.jpg){width=50%}
+
+![](pictures/DS Club/2023 Fall/IMG_1882.jpg){width=50%}
+
+
+- Meeting 2023
+![](pictures/DS Club/2023 Spring/IMG_1844.jpg){width=50%}
+
+- Meeting 2022
+![](pictures/DS Club/2022 Fall/IMG_8041.jpg){width=50%}
+
+- Company Tour
+![](pictures/DS Club/Stryker Tour.jpg){width=50%}
