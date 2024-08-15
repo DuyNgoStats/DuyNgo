@@ -1,5 +1,5 @@
 ---
-title: "Data Science Club <br/> Bayesian Statistics Training"
+title: "Bayesian Statistics Training (BST)"
 output: 
   html_document:
     toc: true
@@ -12,58 +12,96 @@ output:
 ***
 <br>
 
-# Home
+# About
 
-The WMU Data Science club is a student organization which gathers students interested in data science and statistics. Besides students from Data Science program, this club has a variety of other majors, such as mathematics, business, social science, computer science and engineering. 
+The Bayesian Statistics Training (BST) provides workshops and hands-on data analytics for those who are interested in Bayesian approach to statistical inference. The workshop introduces the fundamental of Bayesian statistics and modeling in the context of epigenomics and public health, such as choice of prior distribution and posterior computation. The examples and projects are done using R programming. 
 
-The club aims to support students in learning emerging skillset in the field of data science through workshops and boot camps. The club also connects students with resources to advance their skills in data science and statistics. 
-
-
----
-
-# Bayesian Statistics Training (BST)
-
-The BST provides workshops and hands-on data analytics for those who are interested in Bayesian approach to statistical inference. The workshop introduces the fundamental of Bayesian statistics and modeling in the context of epigenomics and public health, such as choice of prior distribution and posterior computation. The examples and projects are done using R programming. 
-
-
+The BST aims to support students in learning emerging skillset in the field of Bayesian statistics and data science through workshops and undergraduate research. The BST also connects students with resources to advance their skills in statistics and data science. The students will have opportunities to explore and navigate career paths and learn more about the Statistics and Data Science graduate programs at Western Michigan University.
 
 ---
 
-# Software
-
-- Coming soon
+# Our Team
 
 
+:::::::::::::: {.columns}
+::: {.column width="25%"}
+
+![](pictures/profilePic2.jpg){#id .class width=180 height=150px}
+
+<br>
+
+![](pictures/members/Han.png){#id .class width=180 height=150px}
+
+<br>
+
+![](pictures/members/nopic.png){#id .class width=180 height=150px}
+
+:::
+::: {.column width="5%"}
+
+
+:::
+::: {.column width="60%"}
+
+<b>Dr. Duy Ngo. </b> <br>
+Assistant Professor of Statistics.
+
+<br><br><br><br><br><br><br>
+<b>Han Kha. </b> <br>
+Ph.D. Student in Statistics.
+
+<br><br><br><br><br><br><br>
+<b> TBA. </b> <br>
+Undergraduate Student.
+
+:::
+::::::::::::::
+
+
+### Alumni
+
+:::::::::::::: {.columns}
+::: {.column width="25%"}
+
+![](pictures/members/daniel.jpeg){#id .class width=180 height=150px}
+
+<br>
+
+![](pictures/members/xi.jpeg){#id .class width=180 height=150px}
+
+:::
+::: {.column width="5%"}
+
+
+:::
+::: {.column width="60%"}
+
+<b>Daniel Quartey, Ph.D. </b> <br>
+Medtronic.
+
+<br><br><br><br><br><br><br>
+<b>Xi Qiao, Ph.D. </b> <br>
+Case Western Reserve University.
+
+:::
+::::::::::::::
+
+
+
+
+<br><br><br>
 
 ---
 
-# Activities
+<p style="text-align: center;"> The Bayesian Statistics Training is sponsored by the U.S. <b> National Science Foundation</b>. </p>
 
-## Workshop 2023
-
-<div class="grid">
-  <img src="pictures/DS Club/OpenAI 2023/ws1.jpeg" 
-     width="300" 
-     height="300"/>
-  <img src="pictures/DS Club/OpenAI 2023/ws3.jpeg" 
-  width="300" 
-     height="300"/>
-  </br>
-  <img src="pictures/DS Club/2023 Fall/IMG_1877.jpg" 
-  width="300" 
-     height="300"/>
-  <img src="pictures/DS Club/2023 Fall/IMG_1882.jpg" 
-  width="300" 
-     height="300"/>
+<div style="text-align: center;">
+  <img src='pictures/nsflogo.jpg'
+    width=20% />  
 </div>
 
 
-## Meeting 2023
 
-![](pictures/DS Club/2023 Spring/IMG_1844.jpg){width=50%}
 
-## Meeting 2022
-![](pictures/DS Club/2022 Fall/IMG_8041.jpg){width=50%}
 
-## Company Tour
-![](pictures/DS Club/Stryker Tour.jpg){width=50%}
+

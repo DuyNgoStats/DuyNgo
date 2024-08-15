@@ -20,11 +20,8 @@ output:
 Biography
 ====================================================================================
 
-I am currently an Assistant Professor in the Department of Statistics at Western Michigan University. Before coming to Western Michigan University, I received my Ph.D. (2018) in statistics from the [University of California, Irvine](https://www.stat.uci.edu/), and I started as a postdoctoral fellow at Merck Research Laboratory in Rahway, New Jersey.  My research interests include Bayesian analysis, clustering, time series, spectral analysis, and functional data analysis. I am also working on statistical modeling and machine learning for subgroup identification/analysis for benefit--risk assessment.
+I am currently an Assistant Professor in the Department of Statistics at Western Michigan University. Before coming to Western Michigan University, I received my Ph.D. (2018) in statistics from the [University of California, Irvine](https://www.stat.uci.edu/), and I started as a postdoctoral fellow at Merck Research Laboratory in Rahway, New Jersey.  My research interests include Bayesian analysis, time series, spectral analysis, benefit–risk assessment for medicines and casual inference. I am also working on statistical modeling and machine learning for complex genome-wide epigenetic data.
 
-<br>
-<br>
-<br>
 <br>
 
 Academic Positions
@@ -43,11 +40,25 @@ Education
 ====================================================================================
 
 - Ph.D. in Statistics, University of California, Irvine, 2018.
-
   - Advisor: Professor Hernando Ombao.
   
 - B.A. in Mathematics, California State University, Fullerton, 2013.
 
+
+<br>
+
+Grants Funded
+====================================================================================
+
+- National Science Foundation, DMS - 2418816 (2024 - 2026) 
+    - Title: <i> LEAPS-MPS: A Bayesian Framework for Multilevel and High Dimensional Causal Mediation Analysis </i>.
+    - Role: Principal Investigator.
+
+<br> 
+
+- National Science Foundation, 1728743 (2020 - 2021) 
+    - Title: <i> A Bio-Cultural Investigation of Intergenerational Epigenetic Mechanisms </i>.
+    - Role: Senior Personnel (PI: Bilinda Straight).
 
 
 <!-- <br> -->

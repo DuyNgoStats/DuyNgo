@@ -19,5 +19,15 @@ navbar:
       #- text: "---------"
       #- text: "STAT 6500"
       #  href: stats6500.html    
-   - text: "DS Club"
-     href: BST.html
+   - text: "Bayesian Statistics Training"
+     menu:
+      - text: "About"
+        href: BST.html
+      - text: "Workshops"
+        href: BST-WS.html
+      #- text: "Undergraduate Research"
+      #  href: BST-UR.html
+      - text: "Gallery"
+        href: BST-gallery.html
+      
+

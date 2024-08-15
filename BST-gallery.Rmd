@@ -1,0 +1,36 @@
+---
+title: "Gallery"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: false
+    theme: flatly
+---
+
+***
+<br>
+
+### 2024 BST Workshop
+
+- Coming soon.
+
+---
+
+### 2023 Workshop and Stryker tour
+
+<div class="grid">
+  <img src="pictures/Old/ws1.jpeg" 
+     width="300" 
+     height="300"/>
+  <img src="pictures/Old/IMG_8041.jpg" 
+  width="300" 
+     height="300"/>
+  </br>
+  <img src="pictures/Old/IMG_1844.jpg" 
+  width="300" 
+     height="300"/>
+  <img src="pictures/Old/Stryker Tour.jpg" 
+  width="300" 
+     height="300"/>
+</div>
