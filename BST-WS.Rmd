@@ -28,7 +28,7 @@ library(tidyverse)
 library(kableExtra)
 options(knitr.kable.NA = '')
 df = data.frame(
-  Date = c("October 01, 2024", "November 01, 2024", "March 01, 2025", "April 01, 2025"),
+  Date = c("October 25, 2024", "November 15, 2024", "March 14, 2025", "April 04, 2025"),
   Time = c("10:00AM-2:00PM", "10:00AM-2:00PM", "10:00AM-2:00PM", "10:00AM-2:00PM"),
   Description = c("Session I:    Introduction to Bayesian statistics.",
                   "Session II:   Basic and advanced Bayesian statistical modeling.",
@@ -38,7 +38,7 @@ df = data.frame(
 kable(df)
 ```
 
-- <b>Location:</b> TBA. 
+- <b>Location:</b> Lee Honors College - Room 1014. 
 
 ---
 
