@@ -29,11 +29,11 @@ library(kableExtra)
 options(knitr.kable.NA = '')
 df = data.frame(
   Date = c("October 25, 2024", "November 15, 2024", "March 14, 2025", "April 04, 2025"),
-  Time = c("10:00AM-2:00PM", "10:00AM-2:00PM", "10:00AM-2:00PM", "10:00AM-2:00PM"),
-  Description = c("Session I:    Introduction to Bayesian statistics.",
-                  "Session II:   Basic and advanced Bayesian statistical modeling.",
-                  "Session III:  Introduction to causal inference.",
-                  "Session IV:   Bayesian causal inference with applications in epigenetic studies.")
+  Time = c("   10:00AM-2:00PM", "   10:00AM-2:00PM", "   10:00AM-2:00PM", "   10:00AM-2:00PM"),
+  Description = c("  Session I:    Introduction to Bayesian statistics.",
+                  "  Session II:   Basic and advanced Bayesian statistical modeling.",
+                  "  Session III:  Introduction to causal inference.",
+                  "  Session IV:   Bayesian causal inference with applications in epigenetic studies.")
   ) 
 kable(df)
 ```
