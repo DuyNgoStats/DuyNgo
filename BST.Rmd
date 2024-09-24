@@ -31,10 +31,13 @@ The BST aims to support students in learning emerging skillset in the field of B
 <br>
 
 ![](pictures/members/Han.png){#id .class width=180 height=150px}
+<br>
+
+![](pictures/members/Geraldine.jpg){#id .class width=180 height=150px}
 
 <br>
 
-![](pictures/members/nopic.png){#id .class width=180 height=150px}
+![](pictures/members/Michael.jpg){#id .class width=180 height=150px}
 
 :::
 ::: {.column width="5%"}
@@ -51,7 +54,11 @@ Assistant Professor of Statistics.
 Ph.D. Student in Statistics.
 
 <br><br><br><br><br><br><br>
-<b> TBA. </b> <br>
+<b>Geraldine Laydia. </b> <br>
+Ph.D. Student in Statistics.
+
+<br><br><br><br><br><br><br>
+<b> Michael Loh. </b> <br>
 Undergraduate Student.
 
 :::
