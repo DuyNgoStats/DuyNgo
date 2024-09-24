@@ -74,7 +74,7 @@ Undergraduate Student.
 
 <br>
 
-![](pictures/members/xi.jpeg){#id .class width=180 height=150px}
+![](pictures/members/Xi.jpeg){#id .class width=180 height=150px}
 
 :::
 ::: {.column width="5%"}
