@@ -31,9 +31,16 @@ The BST aims to support students in learning emerging skillset in the field of B
 <br>
 
 ![](pictures/members/Han.png){#id .class width=180 height=150px}
+
+
 <br>
 
 ![](pictures/members/Geraldine.jpg){#id .class width=180 height=150px}
+
+<br>
+
+![](pictures/members/Senuri.jpg){#id .class width=180 height=150px}
+
 
 <br>
 
@@ -57,6 +64,12 @@ Ph.D. Student in Statistics.
 <b>Geraldine Laydia. </b> <br>
 Ph.D. Student in Statistics.
 
+
+<br><br><br><br><br><br><br>
+<b>Senuri Rose Niseka Gunaratne. </b> <br>
+Ph.D. Student in Statistics.
+
+
 <br><br><br><br><br><br><br>
 <b> Michael Loh. </b> <br>
 Undergraduate Student.
@@ -64,6 +77,7 @@ Undergraduate Student.
 :::
 ::::::::::::::
 
+<br><br>
 
 ### Alumni
 
