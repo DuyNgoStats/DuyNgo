@@ -13,7 +13,17 @@ output:
 
 ### 2024 BST Workshop
 
-- Coming soon.
+<div class="grid">
+  <img src="pictures/wsFall2024/wsf24-3.jpeg" 
+     width="300" 
+     height="300"/>
+  <img src="pictures/wsFall2024/wsf24-1.jpeg" 
+  width="300" 
+     height="300"/>
+  <img src="pictures/wsFall2024/wsf24-2.jpeg" 
+  width="300" 
+     height="300"/>
+</div>
 
 ---
 
