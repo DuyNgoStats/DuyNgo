@@ -53,8 +53,13 @@ kable(df)
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRO98yF0cpHS2uMWcPaSibwQ7iEiy2H9kklPTbCCaBvlB11g/viewform?embedded=true" width="700" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
+---
 
-<br><br><br>
+# Workshop material
+
+- Workshop 10/25/2024.  [Lecture and R Code.](https://www.dropbox.com/scl/fo/6xryvnouj7e4eascm4hov/AI-fSprepmSiA3oQHXsFvds?rlkey=28jfezym33685jh4ee0bljo5u&st=hopoq6xv&dl=0 "Dropbox link")
+
+<br><br><br><br>
 
 ---
 
