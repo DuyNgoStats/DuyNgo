@@ -34,8 +34,6 @@ The BST aims to support students in learning emerging skillset in the field of B
 
 
 
-
-
 <br>
 
 ![](pictures/members/Maximilian.jpg){#id .class width=180 height=150px}
@@ -96,7 +94,8 @@ Medtronic.
 
 <br><br><br><br><br><br><br>
 <b>Xi Qiao, Ph.D. </b> <br>
-Case Western Reserve University.
+Research Assistant Professor.  </b> <br>
+Department of Internal Medicine, Division of Epidemiology, University of Utah.
 
 :::
 ::::::::::::::

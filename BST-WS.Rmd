@@ -57,7 +57,7 @@ kable(df)
 
 # Workshop material
 
-- Workshop 10/25/2024.  [Lecture and R Code.](https://www.dropbox.com/scl/fo/6xryvnouj7e4eascm4hov/AI-fSprepmSiA3oQHXsFvds?rlkey=28jfezym33685jh4ee0bljo5u&st=hopoq6xv&dl=0 "Dropbox link")
+- [Lecture and R Code.](https://www.dropbox.com/scl/fo/6xryvnouj7e4eascm4hov/AI-fSprepmSiA3oQHXsFvds?rlkey=28jfezym33685jh4ee0bljo5u&st=hopoq6xv&dl=0 "Dropbox link")
 
 <br><br><br><br>
 
