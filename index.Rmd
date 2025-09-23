@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "About me"
 #subtitle: "About me"
 # author: "Duy Ngo"
 output: 
@@ -73,7 +73,7 @@ Contact
 
 - Mail address: 
 <address>
-5517 Everett Tower <br> 
+5506 Everett Tower <br> 
 Department of Statistics <br> 
 Western Michigan University <br> 
 1903 W Michigan Ave <br> 

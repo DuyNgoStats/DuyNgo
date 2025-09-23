@@ -33,22 +33,16 @@ The BST aims to support students in learning emerging skillset in the field of B
 ![](pictures/members/Han.png){#id .class width=180 height=150px}
 
 
-<br>
 
-![](pictures/members/Geraldine.jpg){#id .class width=180 height=150px}
-
-<br>
-
-![](pictures/members/Senuri.jpg){#id .class width=180 height=150px}
 
 
 <br>
 
-![](pictures/members/Michael.jpg){#id .class width=180 height=150px}
+![](pictures/members/Maximilian.jpg){#id .class width=180 height=150px}
 
 <br>
 
-![](pictures/members/hannah.png){#id .class width=180 height=150px}
+![](pictures/members/alejandro.jpeg){#id .class width=180 height=150px}
 
 :::
 ::: {.column width="5%"}
@@ -64,23 +58,14 @@ Assistant Professor of Statistics.
 <b>Han Kha. </b> <br>
 Ph.D. Student in Statistics.
 
-<br><br><br><br><br><br>
-<b>Geraldine Laydia. </b> <br>
-Ph.D. Student in Statistics.
-
-
-<br><br><br><br><br><br><br>
-<b>Senuri Rose Niseka Gunaratne. </b> <br>
-Ph.D. Student in Statistics.
-
 
 <br><br><br><br><br><br>
-<b> Michael Loh. </b> <br>
+<b> Maximilian Charles Zalewski. </b> <br>
 Undergraduate Student.
 
 
 <br><br><br><br><br><br><br>
-<b> Hannah Athirah. </b> <br>
+<b> Alejandro Apud de la Fuente. </b> <br>
 Undergraduate Student.
 
 :::

@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Duy Ngo"
   right:
-   - text: "Home"
+   - text: "Homepage"
      icon: fa-home
      href: index.html
    - text: "Research"
