@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About"
 #subtitle: "About me"
 # author: "Duy Ngo"
 output: 
@@ -11,78 +11,40 @@ output:
     css: style.css
 ---
 
-***
+<hr style="border:2px solid gray"> 
+
 <br>
 
 <!-- rmarkdown::render_site() -->
 
-<img src="pictures/profilePic1.png" style="width:20%; border:2px solid; margin-right: 20px" align="right">
+<img src="pictures/profilePic1.png" style="width:20%; border:2px solid; margin-right: 20px" align="left">
 
-Biography
-====================================================================================
+<!-- <img src="pictures/profilePic2.jpg" style="width:20%; border:2px solid; margin-right: 20px" align="left">  -->
 
-I am currently an Assistant Professor in the Department of Statistics at Western Michigan University. Before coming to Western Michigan University, I received my Ph.D. (2018) in statistics from the [University of California, Irvine](https://www.stat.uci.edu/), and I started as a postdoctoral fellow at Merck Research Laboratory in Rahway, New Jersey.  My research interests include Bayesian analysis, time series, spectral analysis, benefit–risk assessment for medicines and casual inference. I am also working on statistical modeling and machine learning for complex genome-wide epigenetic data.
-
-<br>
-
-Academic Positions
-====================================================================================
-
-- 2019 -- present: Assistant Professor, Department of Statistics, Western Michigan University. 
-
-
-- 2018 -- 2019: Postdoctoral Fellow, Merck Research Laboratory, Rahway, New Jersey.
-
-
+Assistant Professor <br> Department of Statistics <br> Western Michigan University.
 
 <br>
 
-Education 
-====================================================================================
+`r  fontawesome::fa(name='building-columns', fill = "#009081")` &nbsp; &nbsp; 5506 Everett Tower, Kalamazoo, MI 49008.
 
-- Ph.D. in Statistics, University of California, Irvine, 2018.
-  - Advisor: Professor Hernando Ombao.
-  
-- B.A. in Mathematics, California State University, Fullerton, 2013.
+`r  fontawesome::fa(name='phone', fill = "#009081")` &nbsp; &nbsp; (269) 387-4565.
 
+`r  fontawesome::fa(name='envelope', fill = "#009081")` &nbsp; &nbsp;  duy.ngo at wmich DOT edu.
 
-<br>
+`r  fontawesome::fa(name='file', fill = "#009081")` &nbsp; &nbsp; CV.
 
-Grants Funded
-====================================================================================
-
-- National Science Foundation, DMS - 2418816 (2024 - 2026) 
-    - Title: <i> LEAPS-MPS: A Bayesian Framework for Multilevel and High Dimensional Causal Mediation Analysis </i>.
-    - Role: Principal Investigator.
-
-<br> 
-
-- National Science Foundation, 1728743 (2020 - 2021) 
-    - Title: <i> A Bio-Cultural Investigation of Intergenerational Epigenetic Mechanisms </i>.
-    - Role: Senior Personnel (PI: Bilinda Straight).
+`r  fontawesome::fa(name='microscope', fill = "#009081")` &nbsp; &nbsp; Bayesian analysis, time series, spectral analysis, benefit–risk assessment and casual inference.
 
 
-<!-- <br> -->
-
-<!-- Current Highlights -->
-<!-- ==================================================================================== -->
+`r  fontawesome::fa(name='dna', fill = "#009081")` &nbsp; &nbsp; Statistical modeling and machine learning for complex genome-wide epigenetic data. 
 
 <br>
 
-Contact 
-=====================================================================================
+<hr style="border:2px solid gray"> 
 
-- Mail address: 
-<address>
-5506 Everett Tower <br> 
-Department of Statistics <br> 
-Western Michigan University <br> 
-1903 W Michigan Ave <br> 
-Kalamazoo, MI 49008.
-</address>
-  
-- Phone: (269) 387-4565
 
-- Email: duy.ngo at wmich DOT edu
+
+
+
 
 

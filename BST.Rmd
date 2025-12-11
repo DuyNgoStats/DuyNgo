@@ -6,7 +6,8 @@ output:
     css: style.css
 ---
 
-***
+<hr style="border:2px solid gray"> 
+
 <br>
 
 # About
@@ -15,94 +16,14 @@ The Bayesian Statistics Training (BST) provides workshops and hands-on data anal
 
 The BST aims to support students in learning emerging skillset in the field of Bayesian statistics and data science through workshops and undergraduate research. The BST also connects students with resources to advance their skills in statistics and data science. The students will have opportunities to explore and navigate career paths and learn more about the Statistics and Data Science graduate programs at Western Michigan University.
 
----
-
-# Our Team
-
-
-:::::::::::::: {.columns}
-::: {.column width="25%"}
-
-![](pictures/profilePic2.jpg){#id .class width=180 height=150px}
-
-<br>
-
-![](pictures/members/Han.png){#id .class width=180 height=150px}
-
-
-
-<br>
-
-![](pictures/members/Maximilian.jpg){#id .class width=180 height=150px}
-
-<br>
-
-![](pictures/members/alejandro.jpeg){#id .class width=180 height=150px}
-
-:::
-::: {.column width="5%"}
-
-
-:::
-::: {.column width="60%"}
-
-<b>Dr. Duy Ngo. </b> <br>
-Assistant Professor of Statistics.
-
-<br><br><br><br><br><br><br>
-<b>Han Kha. </b> <br>
-Ph.D. Student in Statistics.
-
-
-<br><br><br><br><br><br>
-<b> Maximilian Charles Zalewski. </b> <br>
-Undergraduate Student.
-
-
-<br><br><br><br><br><br><br>
-<b> Alejandro Apud de la Fuente. </b> <br>
-Undergraduate Student.
-
-:::
-::::::::::::::
-
-<br><br>
-
-### Alumni
-
-:::::::::::::: {.columns}
-::: {.column width="25%"}
-
-![](pictures/members/daniel.jpeg){#id .class width=180 height=150px}
-
-<br>
-
-![](pictures/members/Xi.jpeg){#id .class width=180 height=150px}
-
-:::
-::: {.column width="5%"}
-
-
-:::
-::: {.column width="60%"}
-
-<b>Daniel Quartey, Ph.D. </b> <br>
-Medtronic.
-
-<br><br><br><br><br><br><br>
-<b>Xi Qiao, Ph.D. </b> <br>
-Research Assistant Professor.  </b> <br>
-Department of Internal Medicine, Division of Epidemiology, University of Utah.
-
-:::
-::::::::::::::
+<hr style="border:2px solid gray"> 
 
 
 
 
 <br><br><br>
 
----
+<hr style="border:2px solid gray"> 
 
 <p style="text-align: center;"> The Bayesian Statistics Training is sponsored by the U.S. <b> National Science Foundation</b>. </p>
 

@@ -6,12 +6,31 @@ output:
     css: style.css
 ---
 
-***
+<hr style="border:2px solid gray">
 
 <br>
 
+# Grants Funded
+
+
+- National Science Foundation, DMS - 2418816 (2024 - 2026) 
+    - Title: <i> LEAPS-MPS: A Bayesian Framework for Multilevel and High Dimensional Causal Mediation Analysis </i>.
+    - Role: Principal Investigator.
+
+<br> 
+
+- National Science Foundation, 1728743 (2020 - 2021) 
+    - Title: <i> A Bio-Cultural Investigation of Intergenerational Epigenetic Mechanisms </i>.
+    - Role: Senior Personnel (PI: Bilinda Straight).
+    
+<hr style="border:2px solid gray">
+
 
 # Publication
+
+1. Ngo, D., Chau, J., Lopour, B., Smith, R. J., Shrey, D., & Ombao, H. (2025). A Geometric Approach to Brain Network Connectivity. Statistics and Data Science in Imaging, 2(1), 2573905. https://doi.org/10.1080/29979676.2025.2573905
+
+1. Straight, B., Qiao, X., Ngo, D., Hilton, C. E., Olungah, C. O., Lalancette, C., ... & Needham, B. L. (2025). Biological Mechanisms for Allen's Rule: DNA Methylation as Mediator of the Association Between In Utero Exposure to Environmental Heat and Tibial Growth in Childhood. American Journal of Human Biology, 37(7), e70086. https://doi.org/10.1002/ajhb.70086.
 
 1. Ngo, D., Quartey, D.*, Schnell, P. M., Baumgartner, R., Mt-Isa, S., & Feng,
 D. (2024). Bayesian shrinkage estimation of credible subgroups for count data
@@ -54,7 +73,8 @@ boxplots approach. Frontiers in Neuroscience. 9:282. doi: 10.3389/fnins.2015.002
 <br>
 * indicates student co–author.
 
----
+
+<hr style="border:2px solid gray">
 
 # Software
 
@@ -66,4 +86,4 @@ boxplots approach. Frontiers in Neuroscience. 9:282. doi: 10.3389/fnins.2015.002
 
 - Bayesian method for epigenetic age acceleration  <a href="https://zenodo.org/doi/10.5281/zenodo.10854895"><img src="https://zenodo.org/badge/660264057.svg" alt="DOI"></a>
 
-
+<hr style="border:2px solid gray"> 

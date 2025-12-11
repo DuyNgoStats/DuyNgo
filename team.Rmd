@@ -1,11 +1,91 @@
 ---
-title: "Team"
+title: "Our Team"
 output: 
   html_document:
     theme: cosmo
     css: style.css
 ---
 
-***
+<hr style="border:2px solid gray"> 
+
 <br>
+
+
+
+:::::::::::::: {.columns}
+::: {.column width="25%"}
+
+![](pictures/profilePic2.jpg){#id .class width=180 height=150px}
+
+<br>
+
+![](pictures/members/Han.png){#id .class width=180 height=150px}
+
+
+
+<br>
+
+![](pictures/members/Maximilian.jpg){#id .class width=180 height=150px}
+
+<br>
+
+![](pictures/members/alejandro.jpeg){#id .class width=180 height=150px}
+
+:::
+::: {.column width="5%"}
+
+
+:::
+::: {.column width="60%"}
+
+<b>Dr. Duy Ngo. </b> <br>
+Assistant Professor of Statistics.
+
+<br><br><br><br><br><br><br>
+<b>Han Kha. </b> <br>
+Ph.D. Student in Statistics.
+
+
+<br><br><br><br><br><br>
+<b> Maximilian Charles Zalewski. </b> <br>
+Undergraduate Student.
+
+
+<br><br><br><br><br><br><br>
+<b> Alejandro Apud de la Fuente. </b> <br>
+Undergraduate Student.
+
+:::
+::::::::::::::
+
+<br><br>
+
+### Alumni
+
+:::::::::::::: {.columns}
+::: {.column width="25%"}
+
+![](pictures/members/daniel.jpeg){#id .class width=180 height=150px}
+
+<br>
+
+![](pictures/members/Xi.jpeg){#id .class width=180 height=150px}
+
+:::
+::: {.column width="5%"}
+
+
+:::
+::: {.column width="60%"}
+
+<b>Daniel Quartey, Ph.D. </b> <br>
+Medtronic.
+
+<br><br><br><br><br><br><br>
+<b>Xi Qiao, Ph.D. </b> <br>
+Research Assistant Professor.  </b> <br>
+Department of Internal Medicine, Division of Epidemiology, University of Utah.
+
+:::
+::::::::::::::
 

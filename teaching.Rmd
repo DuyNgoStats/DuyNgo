@@ -6,7 +6,8 @@ output:
     css: style.css
 ---
 
-***
+<hr style="border:2px solid gray">
+
 <br>
 
 Western Michigan University
@@ -22,8 +23,6 @@ Western Michigan University
 
 <br>
 
-***
-
 <br>
 
 University of Califorina, Irvine
@@ -32,3 +31,5 @@ University of Califorina, Irvine
 - STATS 7, Basic Statistics, Summer 2015 & Summer 2017.
 
 - STATS 67, Introduction to Probability and Statistics for Computer Science, Summer 2015.
+
+<hr style="border:2px solid gray"> 
