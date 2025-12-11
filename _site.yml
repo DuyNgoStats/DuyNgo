@@ -4,8 +4,8 @@ navbar:
   title: "Duy Ngo"
   #title: "<img src='https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg' alt='Logo' style='width: 1050px; height: 50px;'> "
   right:
-   - text: "Homepage"
-     icon: fa-home
+   - text: "About"
+     #icon: fa-home
      href: index.html
    - text: "Research"
      href: research.html
@@ -20,15 +20,10 @@ navbar:
       #- text: "---------"
       #- text: "STAT 6500"
       #  href: stats6500.html    
-   - text: "Bayesian Statistics Training"
-     menu:
-      - text: "About"
-        href: BST.html
-      - text: "Workshops"
-        href: BST-WS.html
-      #- text: "Undergraduate Research"
-      #  href: BST-UR.html
-      - text: "Gallery"
-        href: BST-gallery.html
+   - text: "Team"
+     href: team.html    
+   - text: "BST Workshop"
+     href: BST.html
+
       
 
