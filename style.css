@@ -1,0 +1,36 @@
+/* Move the position of the title
+.navbar-brand { 
+    padding: 0px !important;  
+    height: 40px !important; 
+}
+*/
+
+.navbar a {
+    color: #DAA520 !important; /* Change color all links within navbar */
+}
+
+.navbar-nav>li>a {
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    line-height: 40px !important; 
+}
+
+.navbar-nav > li > a:hover {
+  background-color: #FAFAD2 !important;
+}
+
+.navbar-nav > .active > a {
+  background-color: #FAFAD2 !important;
+}
+
+.navbar {
+  background-image: url("pictures/bayes.png"); /* Specify the image path */
+/*  background-size: cover;  Adjusts image size to cover the entire element */
+  background-size: 900px 70px;
+  background-position: center; /* Centers the background image */
+  background-repeat: no-repeat; /* Prevents image from repeating */
+  /* Add other styling for the navbar as needed */
+  height: 70px; /* Example height, adjust as needed */
+  border: 0px;
+  font-weight: bold;
+}
