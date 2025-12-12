@@ -41,7 +41,7 @@
 
 .navbar {
 /*  background-image: url("pictures/navbg.jpg"); Specify the image path */
-  background-image: url("pictures/campus/campus1.png");
+  background-image: url("pictures/campus/campus2.png");
 /*  background-size: cover;   Adjusts image size to cover the entire element */
   background-size: 100% 300px;  
   background-position: center; /* Centers the background image */
