@@ -21,7 +21,7 @@ output:
 
 <!-- <img src="pictures/profilePic2.jpg" style="width:20%; border:2px solid; margin-right: 20px" align="left">  -->
 
-Assistant Professor <br> Department of Statistics <br> Western Michigan University.
+<span style="font-size: 18px;"> Assistant Professor <br> Department of Statistics <br> Western Michigan University.</span>
 
 <br>
 

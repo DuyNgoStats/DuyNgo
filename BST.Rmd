@@ -22,10 +22,28 @@ The BST aims to support students in learning emerging skillset in the field of B
 
 <hr style="border:2px solid gray"> 
 
+<!--- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  -->
+<!--- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  -->
+
 # Workshop information
 
-- Please check back for future workshop in Spring 2026.
+`r  fontawesome::fa(name='calendar', fill = "#009081")` &nbsp; &nbsp; Spring 2026 workshop schedule.
 
+  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Date:  &emsp;&emsp; TBA
+   
+  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Time:  &emsp;&emsp; TBA
+   
+  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Location: &nbsp;&nbsp; 6625 Everett Tower.
+  
+  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Topic: &emsp;&emsp; Introduction to causal inference.
+   
+  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp;  There is no registration fee. Plus, enjoy a complimentary lunch during the workshop. 
+
+`r  fontawesome::fa(name='book-open', fill = "#009081")` &nbsp; &nbsp; [Workshop material (Lecture and R Code).](https://www.dropbox.com/scl/fo/6xryvnouj7e4eascm4hov/AI-fSprepmSiA3oQHXsFvds?rlkey=28jfezym33685jh4ee0bljo5u&st=hopoq6xv&dl=0 "Dropbox link")
+
+
+<!--- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  -->
+<!--- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  -->
 <hr style="border:2px solid gray"> 
 
 # Gallery
