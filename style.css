@@ -6,7 +6,6 @@
 }
 
 
-
 .navbar a {
     color: #532E1F !important; /* Change color all links within navbar */
 }
@@ -36,4 +35,43 @@
   /* Add other styling for the navbar as needed */
   height: 70px; /* Example height, adjust as needed */
   border: 0px;
+}
+
+.circle-image {
+  border-radius: 50%; /* Makes the image circular */
+  width: 200px;      /* Set a fixed width */
+  height: 200px;     /* Set a fixed height to ensure a perfect circle */
+  object-fit: cover; /* Ensures the image covers the area without distortion */
+}
+
+.image-with-caption {
+    display: flex;       /* Enables flexbox layout for the figure container */
+    align-items: center; /* Aligns the image and caption vertically in the middle */
+    gap: 20px;           /* Adds some space between the image and the caption */
+    margin: 0;           /* Resets default figure margin */
+    width: fit-content;  /* Ensures the figure container only takes up necessary width */
+}
+
+.image-with-caption figcaption {
+    /* Optional: further styling for the caption text */
+    font-size: 1.6em;
+    flex-grow: 1; /* Allows caption to grow and fill available space */
+}
+
+.footer-image-container {
+    width: 100%; /* Ensures the container spans the full width */
+    text-align: center; /* Centers the image horizontally */
+    margin-top: 20px; /* Adds some space above the image */
+    width: 100%;
+    height: 150px;
+}
+
+.footer-image-container img {
+    display: inline-block; /* Helps with alignment */
+    /* Add optional styling like width, height, etc. */
+}
+
+.title {
+  color: #009CCC; /* Changes the title text color to red */
+  font-weight: bold;
 }
