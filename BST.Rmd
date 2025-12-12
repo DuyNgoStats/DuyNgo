@@ -1,16 +1,20 @@
 ---
-title: "Bayesian Statistics Training (BST)"
+title: "Bayesian Statistics Training"
 output: 
   html_document:
     theme: cosmo
     css: style.css
 ---
 
-<hr style="border:2px solid gray"> 
-
-<br>
-
-# About
+```{css, echo=FALSE}
+#header {
+  background: url(pictures/bayes-org.png);
+  background-size: cover; 
+  background-size: 100% 70px;
+  background-repeat: no-repeat; 
+  padding: .5em;
+}
+```
 
 The Bayesian Statistics Training (BST) provides workshops and hands-on data analytics for those who are interested in Bayesian approach to statistical inference. The workshop introduces the fundamental of Bayesian statistics and modeling in the context of epigenomics and public health, such as choice of prior distribution and posterior computation. The examples and projects are done using R programming. 
 
@@ -18,7 +22,28 @@ The BST aims to support students in learning emerging skillset in the field of B
 
 <hr style="border:2px solid gray"> 
 
+# Workshop information
 
+- Please check back for future workshop in Spring 2026.
+
+<hr style="border:2px solid gray"> 
+
+# Gallery
+
+```{r echo=FALSE}
+library(slickR)
+paths <- c(
+  "pictures/wsFall2025/wsf25-1.jpeg",
+  "pictures/wsFall2025/wsf25-2.jpeg",
+  "pictures/wsFall2024/wsf24-2.jpeg",
+  "pictures/wsFall2024/wsf24-4.jpeg",
+  "pictures/DSClub/Meeting2023.jpg",
+  "pictures/DSClub/Stryker Tour.jpg"
+)
+
+slickR(obj=paths, height = 600, width = 500)+ 
+  settings(dots = TRUE)
+```
 
 
 <br><br><br>

@@ -8,8 +8,6 @@ output:
 
 <hr style="border:2px solid gray">
 
-<br>
-
 # Grants Funded
 
 

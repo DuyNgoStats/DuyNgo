@@ -6,86 +6,64 @@ output:
     css: style.css
 ---
 
-<hr style="border:2px solid gray"> 
+```{css, echo=FALSE}
+#header {
+  background: url(pictures/bayes-org.png);
+  background-size: cover; 
+  background-size: 100% 70px;
+  background-repeat: no-repeat; 
+  padding: .5em;
+}
+```
 
 <br>
 
-
-
-:::::::::::::: {.columns}
-::: {.column width="25%"}
-
-![](pictures/profilePic2.jpg){#id .class width=180 height=150px}
+<figure class="image-with-caption">
+  <img src="pictures/profilePic2.jpg" class="circle-image" alt="Duy Ngo">
+  <figcaption> Duy Ngo <p> Principal Investigator </figcaption>
+</figure>
 
 <br>
 
-![](pictures/members/Han.png){#id .class width=180 height=150px}
+<figure class="image-with-caption">
+<img src="pictures/members/Han.png" class="circle-image" alt="">
+  <figcaption> Han Kha <p> Ph.D. student </figcaption>
+</figure>
 
-
+<br>
+<figure class="image-with-caption">
+<img src="pictures/members/Maximilian.jpg" class="circle-image" alt="">
+  <figcaption> Maximilian Charles Zalewski <p> Undergraduate student </figcaption>
+</figure>
 
 <br>
 
-![](pictures/members/Maximilian.jpg){#id .class width=180 height=150px}
-
+<figure class="image-with-caption">
+<img src="pictures/members/alejandro.jpeg" class="circle-image" alt="">
+  <figcaption> Alejandro Apud de la Fuente <p> Undergraduate student </figcaption>
+</figure>
 <br>
 
-![](pictures/members/alejandro.jpeg){#id .class width=180 height=150px}
-
-:::
-::: {.column width="5%"}
-
-
-:::
-::: {.column width="60%"}
-
-<b>Dr. Duy Ngo. </b> <br>
-Assistant Professor of Statistics.
-
-<br><br><br><br><br><br><br>
-<b>Han Kha. </b> <br>
-Ph.D. Student in Statistics.
-
-
-<br><br><br><br><br><br>
-<b> Maximilian Charles Zalewski. </b> <br>
-Undergraduate Student.
-
-
-<br><br><br><br><br><br><br>
-<b> Alejandro Apud de la Fuente. </b> <br>
-Undergraduate Student.
-
-:::
-::::::::::::::
-
-<br><br>
 
 ### Alumni
 
-:::::::::::::: {.columns}
-::: {.column width="25%"}
+<figure class="image-with-caption">
+<img src="pictures/members/daniel.jpeg" class="circle-image" alt="">
+  <figcaption> Daniel Quartey <p> Medtronic. </figcaption>
+</figure>
 
-![](pictures/members/daniel.jpeg){#id .class width=180 height=150px}
+
+<figure class="image-with-caption">
+<img src="pictures/members/Xi.jpeg" class="circle-image" alt="">
+  <figcaption> Xi Qiao <p> Research Assistant Professor, University of Utah. </figcaption>
+</figure>
+
 
 <br>
 
-![](pictures/members/Xi.jpeg){#id .class width=180 height=150px}
+<hr style="border:2px solid gray"> 
 
-:::
-::: {.column width="5%"}
-
-
-:::
-::: {.column width="60%"}
-
-<b>Daniel Quartey, Ph.D. </b> <br>
-Medtronic.
-
-<br><br><br><br><br><br><br>
-<b>Xi Qiao, Ph.D. </b> <br>
-Research Assistant Professor.  </b> <br>
-Department of Internal Medicine, Division of Epidemiology, University of Utah.
-
-:::
-::::::::::::::
+<!--
+<img src="pictures/bayes-org.png" alt="" class="footer-image-container"/>
+-->
 
