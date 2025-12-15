@@ -44,14 +44,16 @@ output:
 </figure>
 <br>
 
+<hr style="border:2px solid gray">
 
-### Alumni
+# Alumni
 
 <figure class="image-with-caption">
 <img src="pictures/members/daniel.jpeg" class="circle-image" alt="">
   <figcaption> Daniel Quartey <p> Medtronic. </figcaption>
 </figure>
 
+<br>
 
 <figure class="image-with-caption">
 <img src="pictures/members/Xi.jpeg" class="circle-image" alt="">

@@ -51,12 +51,12 @@ The BST aims to support students in learning emerging skillset in the field of B
 ```{r echo=FALSE}
 library(slickR)
 paths <- c(
-  "pictures/wsFall2025/wsf25-1.jpeg",
-  "pictures/wsFall2025/wsf25-2.jpeg",
-  "pictures/wsFall2024/wsf24-2.jpeg",
-  "pictures/wsFall2024/wsf24-4.jpeg",
-  "pictures/DSClub/Meeting2023.jpg",
-  "pictures/DSClub/Stryker Tour.jpg"
+  "pictures/BTS/wsf24-3.jpeg",
+  "pictures/BTS/wsf24-2.jpeg",
+  "pictures/BTS/wsf25-1.jpeg",
+  "pictures/BTS/wsf25-2.jpeg",
+  "pictures/BTS/Meeting2023.jpg",
+  "pictures/BTS/Stryker Tour.jpg"
 )
 
 slickR(obj=paths, height = 600, width = 500)+ 
