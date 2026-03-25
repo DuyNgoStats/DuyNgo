@@ -29,11 +29,11 @@ The BST aims to support students in learning emerging skillset in the field of B
 
 `r  fontawesome::fa(name='calendar', fill = "#009081")` &nbsp; &nbsp; Spring 2026 workshop schedule.
 
-  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Date:  &emsp;&emsp; TBA
+  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Date:  &emsp;&emsp;  April 17 and April 24.
    
-  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Time:  &emsp;&emsp; TBA
+  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Time:  &emsp;&emsp; 12:00 - 2:00 PM.
    
-  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Location: &nbsp;&nbsp; 6625 Everett Tower.
+  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Location: &nbsp;&nbsp;  6625 Everett Tower.
   
   &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Topic: &emsp;&emsp; Introduction to causal inference.
    
