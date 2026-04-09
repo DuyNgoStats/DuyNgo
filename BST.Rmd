@@ -48,6 +48,8 @@ The BST aims to support students in learning emerging skillset in the field of B
 
 # Gallery
 
+<center><h3> BST Workshop </h3></center>
+
 ```{r echo=FALSE}
 library(slickR)
 paths <- c(
@@ -57,6 +59,21 @@ paths <- c(
   "pictures/BTS/wsf25-2.jpeg",
   "pictures/BTS/Meeting2023.jpg",
   "pictures/BTS/Stryker Tour.jpg"
+)
+
+slickR(obj=paths, height = 600, width = 500)+ 
+  settings(dots = TRUE)
+```
+
+<br><br>
+
+<center><h3> Presentation </h3></center>
+
+```{r echo=FALSE}
+library(slickR)
+paths <- c(
+  "pictures/studentTalk/CAS3.jpeg"
+#  "pictures/studentTalk/CAS2.jpeg"
 )
 
 slickR(obj=paths, height = 600, width = 500)+ 
