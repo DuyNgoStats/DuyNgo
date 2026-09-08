@@ -17,34 +17,56 @@ output:
 
 <!-- rmarkdown::render_site() -->
 
-<img src="pictures/profilePic1.png" style="width:20%; border:2px solid; margin-right: 20px" align="left">
+<!-- <img src="pictures/profilePic1.png" style="width:20%; border:2px solid; margin-right: 20px" align="left"> -->
+
+<img src="pictures/profilePic2.jpg" class="circle-image" style="width:20%; border:2px solid; margin-right: 20px" align="left">
 
 <!-- <img src="pictures/profilePic2.jpg" style="width:20%; border:2px solid; margin-right: 20px" align="left">  -->
 
-<span style="font-size: 18px;"> Assistant Professor <br> Department of Statistics <br> Western Michigan University.</span>
+<span style="font-size: 18px;"> I am an Associate Professor in the Department of Statistics at Western Michigan University. I earned my PhD from the Department of Statistics at University of California, Irvine where I was co-advised by Professor [Hernando Ombao](https://www.kaust.edu.sa/en/study/faculty/hernando-ombao) and Professor [Babak Shahbaba](https://ics.uci.edu/~babaks/). Previously, I was an Associate Scientist at Merck Research Laboratories in Rahway, New Jersey.
+ <br> <br> My research interests encompass statistical modeling and collaborative research across interdisciplinary domains. My primary research areas include Bayesian statistics, causal inference, heterogeneity in subgroup analysis, time series, spectral analysis and deep learning. My collaborative research focuses on developing modern statistical methods for analyzing high-dimensional and complex datasets arising from environmental and health sciences.
+
+</span>
+
+
+<hr style="border:2px solid gray"> 
+
+<span style="font-size: 30px; color: #532E1F">  Current students</span>
+
++ Han Kha
+
++ James Sario
+
 
 <br>
-
-`r  fontawesome::fa(name='building-columns', fill = "#009081")` &nbsp; &nbsp; 5506 Everett Tower, Kalamazoo, MI 49008.
-
-`r  fontawesome::fa(name='phone', fill = "#009081")` &nbsp; &nbsp; (269) 387-4565.
-
-`r  fontawesome::fa(name='envelope', fill = "#009081")` &nbsp; &nbsp;  duy.ngo at wmich DOT edu.
-
-`r  fontawesome::fa(name='file', fill = "#009081")` &nbsp; &nbsp; CV.
-
-`r  fontawesome::fa(name='microscope', fill = "#009081")` &nbsp; &nbsp; Bayesian analysis, time series, spectral analysis, benefit–risk assessment and casual inference.
+<span style="font-size: 30px; color: #532E1F">  Alumni</span>
 
 
-`r  fontawesome::fa(name='dna', fill = "#009081")` &nbsp; &nbsp; Statistical modeling and machine learning for complex genome-wide epigenetic data. 
++ Daniel Quartey (Senior Biostatistician, Medtronic)
+
++ Xi Qiao (Research Assistant Professor, University of Utah)
+
++ Jaeseong Hwang (Statistician, Elkhart County Public Health Department)
+
 
 <br>
 
 <hr style="border:2px solid gray"> 
 
+<span style="font-size: 35px; color: #532E1F">  Contact </span>
 
 
+`r  fontawesome::fa(name='building-columns', fill = "#009081")` &nbsp; &nbsp; 5506 Everett Tower, Kalamazoo, MI 49008.
 
+`r  fontawesome::fa(name='phone', fill = "#009081")` &nbsp; &nbsp; (269) 387-4565.
 
+`r  fontawesome::fa(name='envelope', fill = "#009081")` &nbsp; &nbsp;  duy DOT ngo at wmich DOT edu.
 
+<!--`r  fontawesome::fa(name='file', fill = "#009081")` &nbsp; &nbsp; CV.
+
+`r  fontawesome::fa(name='microscope', fill = "#009081")` &nbsp; &nbsp; Bayesian analysis, time series, spectral analysis, benefit–risk assessment and casual inference.
+
+`r  fontawesome::fa(name='dna', fill = "#009081")` &nbsp; &nbsp; Statistical modeling and machine learning for complex genome-wide epigenetic data. -->
+
+<br>
 

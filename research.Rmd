@@ -8,22 +8,6 @@ output:
 
 <hr style="border:2px solid gray">
 
-# Grants Funded
-
-
-- National Science Foundation, DMS - 2418816 (2024 - 2026) 
-    - Title: <i> LEAPS-MPS: A Bayesian Framework for Multilevel and High Dimensional Causal Mediation Analysis </i>.
-    - Role: Principal Investigator.
-
-<br> 
-
-- National Science Foundation, 1728743 (2020 - 2021) 
-    - Title: <i> A Bio-Cultural Investigation of Intergenerational Epigenetic Mechanisms </i>.
-    - Role: Senior Personnel (PI: Bilinda Straight).
-    
-<hr style="border:2px solid gray">
-
-
 # Publication
 
 1. Ngo, D., Chau, J., Lopour, B., Smith, R. J., Shrey, D., & Ombao, H. (2025). A Geometric Approach to Brain Network Connectivity. Statistics and Data Science in Imaging, 2(1), 2573905. https://doi.org/10.1080/29979676.2025.2573905
@@ -85,3 +69,18 @@ boxplots approach. Frontiers in Neuroscience. 9:282. doi: 10.3389/fnins.2015.002
 - Bayesian method for epigenetic age acceleration  <a href="https://zenodo.org/doi/10.5281/zenodo.10854895"><img src="https://zenodo.org/badge/660264057.svg" alt="DOI"></a>
 
 <hr style="border:2px solid gray"> 
+
+# Grants Funded
+
+
+- National Science Foundation, DMS - 2418816 (2024 - 2026) 
+    - Title: <i> LEAPS-MPS: A Bayesian Framework for Multilevel and High Dimensional Causal Mediation Analysis </i>.
+    - Role: Principal Investigator.
+
+<br> 
+
+- National Science Foundation, 1728743 (2020 - 2021) 
+    - Title: <i> A Bio-Cultural Investigation of Intergenerational Epigenetic Mechanisms </i>.
+    - Role: Senior Personnel (PI: Bilinda Straight).
+    
+<hr style="border:2px solid gray">

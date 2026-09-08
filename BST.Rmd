@@ -27,15 +27,15 @@ The BST aims to support students in learning emerging skillset in the field of B
 
 # Workshop information
 
-`r  fontawesome::fa(name='calendar', fill = "#009081")` &nbsp; &nbsp; Spring 2026 workshop schedule.
+`r  fontawesome::fa(name='calendar', fill = "#009081")` &nbsp; &nbsp; Spring 2027 workshop schedule.
 
-  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Date:  &emsp;&emsp;  April 17 and April 24.
+  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Date:  &emsp;&emsp;  TBA.
    
-  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Time:  &emsp;&emsp; 12:00 - 2:00 PM.
+  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Time:  &emsp;&emsp; TBA.
    
   &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Location: &nbsp;&nbsp;  6625 Everett Tower.
   
-  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Topic: &emsp;&emsp; Introduction to causal inference.
+  &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp; Topic: &emsp;&emsp; Introduction to Bayesian causal inference.
    
   &emsp;&emsp; `r  fontawesome::fa(name='angle-right', fill = "#009081")` &nbsp; &nbsp;  There is no registration fee. Plus, enjoy a complimentary lunch during the workshop. 
 
@@ -72,6 +72,7 @@ slickR(obj=paths, height = 600, width = 500)+
 ```{r echo=FALSE}
 library(slickR)
 paths <- c(
+  "pictures/studentTalk/Han_JSM2026.jpg",
   "pictures/studentTalk/CAS3.jpeg"
 #  "pictures/studentTalk/CAS2.jpeg"
 )

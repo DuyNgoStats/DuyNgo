@@ -20,8 +20,10 @@ navbar:
       #- text: "---------"
       #- text: "STAT 6500"
       #  href: stats6500.html    
-   - text: "Team"
-     href: team.html    
+   #- text: "Team"
+   #   href: team.html    
+   #- text: "BST Workshop"
+  #   href: BST.html
    - text: "BST Workshop"
      href: BST.html
 
