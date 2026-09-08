@@ -53,7 +53,7 @@ output:
 
 <hr style="border:2px solid gray"> 
 
-<span style="font-size: 35px; color: #532E1F">  Contact </span>
+<span style="font-size: 30px; color: #532E1F">  Contact </span>
 
 
 `r  fontawesome::fa(name='building-columns', fill = "#009081")` &nbsp; &nbsp; 5506 Everett Tower, Kalamazoo, MI 49008.
