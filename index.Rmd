@@ -15,18 +15,22 @@ output:
 
 <br>
 
-<!-- rmarkdown::render_site() -->
+<!-- <img src="pictures/headshot.png" class="circle-image" style="width:20%; border:2px solid; margin-right: 20px" align="left"> -->
 
-<!-- <img src="pictures/profilePic1.png" style="width:20%; border:2px solid; margin-right: 20px" align="left"> -->
 
+
+
+::: {style="flex: 1;"}
+<!-- Left Column: Picture -->
 <img src="pictures/headshot.png" class="circle-image" style="width:20%; border:2px solid; margin-right: 20px" align="left">
+:::
 
-<!-- <img src="pictures/profilePic2.jpg" style="width:20%; border:2px solid; margin-right: 20px" align="left">  -->
-
-<span style="font-size: 18px;"> I am an Associate Professor in the Department of Statistics at Western Michigan University. I earned my PhD from the Department of Statistics at University of California, Irvine where I was co-advised by Professor [Hernando Ombao](https://www.kaust.edu.sa/en/study/faculty/hernando-ombao) and Professor [Babak Shahbaba](https://ics.uci.edu/~babaks/). Previously, I was an Associate Scientist at Merck Research Laboratories in Rahway, New Jersey.
+::: {style="flex: 1; display: flex; flex-direction: column; justify-content: center; text-align: left;"}
+<!-- Right Column: Centered Text -->
+I am an Associate Professor in the Department of Statistics at Western Michigan University. I earned my PhD from the Department of Statistics at University of California, Irvine where I was co-advised by Professor [Hernando Ombao](https://www.kaust.edu.sa/en/study/faculty/hernando-ombao) and Professor [Babak Shahbaba](https://ics.uci.edu/~babaks/). Previously, I was an Associate Scientist at Merck Research Laboratories in Rahway, New Jersey.
  <br> <br> My research interests encompass statistical modeling and collaborative research across interdisciplinary domains. My primary research areas include Bayesian statistics, causal inference, heterogeneity in subgroup analysis, time series, spectral analysis and deep learning. My collaborative research focuses on developing modern statistical methods for analyzing high-dimensional and complex datasets arising from environmental and health sciences.
+:::
 
-</span>
 
 
 <hr style="border:2px solid gray"> 
